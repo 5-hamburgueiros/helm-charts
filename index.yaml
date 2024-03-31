@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
   nodejs:
-    - apiVersion: v2
-      appVersion: 1.16.0
-      created: '2024-03-30T21:29:52.923322631-03:00'
-      description: A Helm chart for Kubernetes
-      digest: cf288bdcbf5e844309b9d2331560bb65a25d9fc6f527f7934d27cb0959f157c4
-      name: nodejs
-      type: application
-      urls:
-        - https://5-hamburgueiros.github.io/helm-charts/nodejs-0.1.0.tgz
-      version: 0.1.0
-generated: '2024-03-30T21:29:52.922877031-03:00'
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-31T18:17:36.641278013-03:00"
+    description: A Helm chart for Kubernetes
+    digest: a76dd650e98c8c706c97bc4bb890553b8fabe22c006e9dcd7010317b32d925db
+    name: nodejs
+    type: application
+    urls:
+    - https://5-hamburgueiros.github.io/helm-charts/nodejs-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-31T18:17:36.640752513-03:00"
