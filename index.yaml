@@ -3,12 +3,12 @@ entries:
   nodejs:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-31T18:17:36.641278013-03:00"
+    created: "2024-03-31T18:21:26.48990851-03:00"
     description: A Helm chart for Kubernetes
-    digest: a76dd650e98c8c706c97bc4bb890553b8fabe22c006e9dcd7010317b32d925db
+    digest: 39e2e2af372be01406ae4aa66cf8572864e295a0d0fc158491918cd5376d69fb
     name: nodejs
     type: application
     urls:
-    - https://5-hamburgueiros.github.io/helm-charts/nodejs-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-03-31T18:17:36.640752513-03:00"
+    - https://5-hamburgueiros.github.io/helm-charts/nodejs-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-03-31T18:21:26.48948061-03:00"
